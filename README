@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=875
+
+Easily switch between buffers without knowing their numbers. 
+
+The SHIFT+F1...SHIFT+F12 keys are mapped to switch to the Nth listed buffer (not buffer #N). Quite handy.
+
+There are also other mappings to switch to the next and previous buffer and to close the current buffer.
+
+No windows that consume precious screen-space will be created.
